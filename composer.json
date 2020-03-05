@@ -27,7 +27,7 @@
         "guzzlehttp/guzzle": "^6.3"
     },
     "repositories": [
-        {        {
+        {
             "type": "vcs",
             "url": "https://github.com/lucasromanojf/support"
         }
